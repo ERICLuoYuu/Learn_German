@@ -42,8 +42,6 @@ layout: home
 
 Note: The ß (Eszett or sharp S) is not considered a separate letter of the alphabet but is included here for completeness.
 
-Certainly! Below is a complete table of German personal pronouns and interrogative pronouns with their case changes, along with their English translations.
-
 ### Personal Pronouns and Their Case Changes**
 
 | **Case**       | **1st Person Singular** | **2nd Person Singular** | **3rd Person Singular (Masculine)** | **3rd Person Singular (Feminine)** | **3rd Person Singular (Neuter)** | **1st Person Plural** | **2nd Person Plural** | **3rd Person Plural** | **Formal (Singular/Plural)** |
