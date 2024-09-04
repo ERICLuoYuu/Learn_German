@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lesson2
+nav_order: 2
+---
 # German Lesson2
 
 ## 1. Personal Information Phrases
